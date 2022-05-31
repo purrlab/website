@@ -26,7 +26,7 @@ by (1) collecting responses to the questions in this survey, (2) inviting survey
 to an optional follow-up interview, and (3) collecting publicly available data (e.g., on 
 conference websites).
 
-Your participation in this survey will consist of spending XX-XX minutes answering questions 
+Your participation in this survey will consist of spending around 15 minutes answering questions 
 regarding conferences in general, specific conferences, and your demographic characteristics. 
 At the end of this survey, you will be asked to indicate whether you are interested in 
 participating in a follow-up interview. The follow-up interview is optional and will consist 
@@ -40,6 +40,17 @@ without the need to provide a reason, by contacting Bethany Chamberlain at
 
 This project is conducted by the IT University of Copenhagen (CVR no. 29057753) and is 
 supported by Novo Nordisk Foundation starting package grant NNF21OC0068816.
+
+## Participation Incentive
+To thank you for your time, interested participants will be entered into a raffle. After the 
+survey is closed, 5 raffle winners will be randomly selected. Gifts for the raffle winners 
+will be chosen after the winners are contacted to account for international participation. 
+Gifts can be expected to include options such as: movie tickets, a coffee clip card, chocolates, 
+wine, or a combination thereof. The total value of the gift will be around 200 DKK (25 EUR / 25 USD). 
+Please note that, for tax purposes, we are unable to offer cash or cash gift certificates.
+
+For the first 50 participants from the IT University of Copenhagen, you can also get a ticket 
+for a scoop of ice cream from Ismageriet to thank you for completing the survey.
 
 ## What personal data does the project process?
 For all questions relating to personal, identifying data, you will have the option not to 
