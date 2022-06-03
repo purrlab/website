@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Pattern Recognition Revisited Lab (PURRLab)
+description: The focus of machine learning research on larger datasets, novelty and state-of-the-art results has 
+  lead to a lot of progress, but also has negative consequences such as propagating bias, a huge carbon footprint 
+  and de-democratization. We instead aim to recognize patterns within, and between problems with few examples, in 
+  particular related to the health domain.
